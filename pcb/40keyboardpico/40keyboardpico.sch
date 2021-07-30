@@ -777,4 +777,18 @@ Text GLabel 3200 1800 2    50   Input ~ 0
 COL18
 Text GLabel 3200 1600 2    50   Input ~ 0
 COL19
+Text GLabel 3200 1700 2    50   Input ~ 0
+GND
+Text GLabel 3200 2200 2    50   Input ~ 0
+GND
+Text GLabel 3200 2700 2    50   Input ~ 0
+GND
+Text GLabel 1800 2700 0    50   Input ~ 0
+GND
+Text GLabel 1800 2200 0    50   Input ~ 0
+GND
+Text GLabel 1800 1700 0    50   Input ~ 0
+GND
+Text GLabel 1800 1200 0    50   Input ~ 0
+GND
 $EndSCHEMATC

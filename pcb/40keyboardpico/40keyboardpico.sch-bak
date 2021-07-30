@@ -512,37 +512,37 @@ Wire Wire Line
 Connection ~ 6400 3400
 Wire Wire Line
 	6400 3400 6400 2550
-Text GLabel 1800 1000 0    50   Input ~ 0
-ROW0
-Text GLabel 1800 1100 0    50   Input ~ 0
-ROW1
-Text GLabel 1800 1300 0    50   Input ~ 0
-ROW2
 Text GLabel 1800 1400 0    50   Input ~ 0
+ROW0
+Text GLabel 1800 1300 0    50   Input ~ 0
+ROW1
+Text GLabel 1800 1100 0    50   Input ~ 0
+ROW2
+Text GLabel 1800 1000 0    50   Input ~ 0
 ROW3
-Text GLabel 1800 1500 0    50   Input ~ 0
-COL0
-Text GLabel 1800 1600 0    50   Input ~ 0
-COL1
-Text GLabel 1800 1800 0    50   Input ~ 0
-COL2
 Text GLabel 1800 1900 0    50   Input ~ 0
+COL0
+Text GLabel 1800 1800 0    50   Input ~ 0
+COL1
+Text GLabel 1800 1600 0    50   Input ~ 0
+COL2
+Text GLabel 1800 1500 0    50   Input ~ 0
 COL3
-Text GLabel 1800 2000 0    50   Input ~ 0
-COL4
-Text GLabel 1800 2100 0    50   Input ~ 0
-COL5
-Text GLabel 1800 2300 0    50   Input ~ 0
-COL6
 Text GLabel 1800 2400 0    50   Input ~ 0
+COL4
+Text GLabel 1800 2300 0    50   Input ~ 0
+COL5
+Text GLabel 1800 2100 0    50   Input ~ 0
+COL6
+Text GLabel 1800 2000 0    50   Input ~ 0
 COL7
-Text GLabel 1800 2500 0    50   Input ~ 0
-COL8
-Text GLabel 1800 2600 0    50   Input ~ 0
-COL9
-Text GLabel 1800 2800 0    50   Input ~ 0
-COL10
 Text GLabel 1800 2900 0    50   Input ~ 0
+COL8
+Text GLabel 1800 2800 0    50   Input ~ 0
+COL9
+Text GLabel 1800 2600 0    50   Input ~ 0
+COL10
+Text GLabel 1800 2500 0    50   Input ~ 0
 COL11
 Text GLabel 3200 2900 2    50   Input ~ 0
 COL12
@@ -777,4 +777,18 @@ Text GLabel 3200 1800 2    50   Input ~ 0
 COL18
 Text GLabel 3200 1600 2    50   Input ~ 0
 COL19
+Text GLabel 3200 1700 2    50   Input ~ 0
+GND
+Text GLabel 3200 2200 2    50   Input ~ 0
+GND
+Text GLabel 3200 2700 2    50   Input ~ 0
+GND
+Text GLabel 1800 2700 0    50   Input ~ 0
+GND
+Text GLabel 1800 2200 0    50   Input ~ 0
+GND
+Text GLabel 1800 1700 0    50   Input ~ 0
+GND
+Text GLabel 1800 1200 0    50   Input ~ 0
+GND
 $EndSCHEMATC
